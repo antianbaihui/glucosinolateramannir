@@ -1,0 +1,212 @@
+[
+  {
+    "path": "manuscript/sensitivity_88.py",
+    "sha256": "84296f37b84bd26ac93f291c0df9386682e50b33f3d64715c7c9ef02b874797c",
+    "bytes": 6884
+  },
+  {
+    "path": "manuscript/verify_sensitivity.py",
+    "sha256": "fa73113b424c7daa56b2c9bb5fda57d2b7c525ee5c6e2f31a63312f45bc6ecd8",
+    "bytes": 1787
+  },
+  {
+    "path": "analysis_band/sample_labels.csv",
+    "sha256": "f6086b4c97e1c15d0f8b4992c79e1893563f8ab405c67118c334c903dd6d715a",
+    "bytes": 1725
+  },
+  {
+    "path": "74samples.csv",
+    "sha256": "c286b3b0a00badedcee7558a98039989d7e6a34a72a59af85c208892997e4ab0",
+    "bytes": 1397
+  },
+  {
+    "path": "历史/126种青花菜硫苷成分.xlsx",
+    "sha256": "685f202473943c86edb185810cbc01431b93f18470127e4f1fe48e0f00e0964c",
+    "bytes": 16298
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/head_spectra_126.csv",
+    "sha256": "12d5732789cef665650e92291279f43ffdc44c1c7a68cb03e7f47977f652a720",
+    "bytes": 1764326
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/head_74_labels.csv",
+    "sha256": "ec4bb6f44f48c6b009841367b4b9edb5223007ca6727ae3c27fa6164fd92d584",
+    "bytes": 1982
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/audit.json",
+    "sha256": "31af036010b986470ef1882140aced9254e4cdbc9ecd107e8f8d3eee68ef8597",
+    "bytes": 823
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/splits.json",
+    "sha256": "71b9a5a79d00b4357833b4b380fc05b4342fbc6b68edac8e4f4baff6b8452e32",
+    "bytes": 91521
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/protocol.json",
+    "sha256": "a516fd72abfc0d8ff9eef911d4509b524e0256f6990897c6ac843fc95c5d459c",
+    "bytes": 651
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/all_algorithms/implementation_versions.json",
+    "sha256": "8045f3552256f7317dc3320e6f549eee9741b6eff8ac41aea21a4965886d3673",
+    "bytes": 1040
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/all_algorithms/全部算法结果汇总.csv",
+    "sha256": "607bf95041648d3770c44cabbbadcc15827bfa3a659ab5b1e360e54c7d317bda",
+    "bytes": 31038
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/all_algorithms/nir_all_fold_metrics.csv",
+    "sha256": "8b3c7c203722e52c01f554b50212409753775a181d59e9ff4df7e85fa3a0d754",
+    "bytes": 132833
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/all_algorithms/nir_all_oof_predictions.csv",
+    "sha256": "265dcb46634e6b9fc2a7ebe6c328e7746e315b0654e0167a0ca4a1df7251eddc",
+    "bytes": 279872
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/segmentation/固定波段成绩_事后排名.csv",
+    "sha256": "38e6606d76d03be16d1eef26953005eb530e1316797cef171bee59e451803787",
+    "bytes": 27047
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/segmentation/内层选段流程成绩.csv",
+    "sha256": "100ac1da4f22c85cf145f09734dc00f1e7d434c14922b9e8865c26cc9126aa04",
+    "bytes": 10500
+  },
+  {
+    "path": "manuscript/sensitivity_88/fold_metrics.csv",
+    "sha256": "c0ed0917c01ffa4f4537bd8438a2cf7a85f062c7c9309184ca518a9fd3873517",
+    "bytes": 76294
+  },
+  {
+    "path": "manuscript/sensitivity_88/inner_scores.csv",
+    "sha256": "93a6bf8671710d1e45ddf7fff836e65b55d9f544d5d6c4745261450db5bb0391",
+    "bytes": 566135
+  },
+  {
+    "path": "manuscript/sensitivity_88/labels.csv",
+    "sha256": "f139a0fc77e41272e3606db9857f96b42391c418883b70d6c80aebd57c13a0e8",
+    "bytes": 2121
+  },
+  {
+    "path": "manuscript/sensitivity_88/oof_predictions.csv",
+    "sha256": "b72cb82d42383c2274e22cfd5df27473eed093fa3fbc03ac2c0836e2c312e5d1",
+    "bytes": 338012
+  },
+  {
+    "path": "manuscript/sensitivity_88/protocol.json",
+    "sha256": "88e70cad3b3065a231accfc5b1a6c897f7a5de131a4d3e1f81995248dea1de40",
+    "bytes": 7585
+  },
+  {
+    "path": "manuscript/sensitivity_88/splits.json",
+    "sha256": "16ca1245dfb6766eee0fb1a8276cf70e721ecfb584eb69f01bad276e77f04fe4",
+    "bytes": 107439
+  },
+  {
+    "path": "manuscript/sensitivity_88/summary.csv",
+    "sha256": "7156507b89fe7bef0ee8ef95a422d8d8e4270e432dd85e7ea0e7a1589eae961f",
+    "bytes": 4175
+  },
+  {
+    "path": "manuscript/sensitivity_88/verification.json",
+    "sha256": "74eb6297bdd30fddb33b660d71c006c643333e9a141054a9aaf447941ed24214",
+    "bytes": 370
+  },
+  {
+    "path": "manuscript/sensitivity_88/warnings.json",
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "bytes": 2
+  },
+  {
+    "path": "analysis_band/classify_74samples.py",
+    "sha256": "32182aec12c897e0aced6ef6b7d6ae21bd595a59aa493a1adcd7e649890452d9",
+    "bytes": 16323
+  },
+  {
+    "path": "analysis_band/all_algorithm_suite.py",
+    "sha256": "180f25263cc9bb7fde7f927da5e1f37a8d36c4db99f9a4202a3c0d5954b095ab",
+    "bytes": 15424
+  },
+  {
+    "path": "analysis_band/optimize_single_modalities.py",
+    "sha256": "50a675bbdcc93fdbdcd1424fa6e4dd729a8fc39854331783c67a6eff29f75f16",
+    "bytes": 19117
+  },
+  {
+    "path": "analysis_band/compare_algorithms.py",
+    "sha256": "0da816f336c0177c88f87c9da71331286d803cc71e6e533aa1b0c4020f7ad696",
+    "bytes": 15468
+  },
+  {
+    "path": "analysis_band/segment_74samples.py",
+    "sha256": "217e5ba9f751bf810a2f7e3e90d5fe0933dbe5f0252fedecd0b69073051c9e69",
+    "bytes": 9190
+  },
+  {
+    "path": "analysis_band/deep_algorithm_suite.py",
+    "sha256": "d3ecdea119b0b273f657800786434eb958fccc39491fe9ade6a4e5377965ad1b",
+    "bytes": 7004
+  },
+  {
+    "path": "analysis_band/rerun_head_suite_20261007.py",
+    "sha256": "d3e48a51707c07f73df55d207e13108ee7871697e12c8605f3aa82a0d9826fb0",
+    "bytes": 3114
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/all_algorithms/nir/protocol.json",
+    "sha256": "ae686ded6a9a65ce2d4b59df1ac1ddda56f3180f990c314d58aae478318479c2",
+    "bytes": 14091
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/all_algorithms/nir/splits.json",
+    "sha256": "71b9a5a79d00b4357833b4b380fc05b4342fbc6b68edac8e4f4baff6b8452e32",
+    "bytes": 91521
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/all_algorithms/nir_deep/protocol.json",
+    "sha256": "07203cef835ee5225dab0989906f2836960e57253388de4234919282f1433370",
+    "bytes": 2095
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/all_algorithms/nir_deep/splits.json",
+    "sha256": "71b9a5a79d00b4357833b4b380fc05b4342fbc6b68edac8e4f4baff6b8452e32",
+    "bytes": 91521
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/all_algorithms/nir_tabpfn/protocol.json",
+    "sha256": "121625cf7f34040cc4d4102ae0f6ed41e0ccdf4489dcc567e8d216d1a93534cd",
+    "bytes": 1498
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/all_algorithms/nir_tabpfn/splits.json",
+    "sha256": "71b9a5a79d00b4357833b4b380fc05b4342fbc6b68edac8e4f4baff6b8452e32",
+    "bytes": 91521
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/segmentation/classical/protocol.json",
+    "sha256": "ce1348c8fbbe1c97405d252addde52742d5f132b6a8048904b5aebf210665760",
+    "bytes": 7723
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/segmentation/classical/splits.json",
+    "sha256": "71b9a5a79d00b4357833b4b380fc05b4342fbc6b68edac8e4f4baff6b8452e32",
+    "bytes": 91521
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/segmentation/ann/protocol.json",
+    "sha256": "86c4f8a2eff5794f79f2dcb9e05fcaf331a01ade93304c0ad92f5db1cb8e04bc",
+    "bytes": 6023
+  },
+  {
+    "path": "analysis_band/head_confirmed_20261007/segmentation/ann/splits.json",
+    "sha256": "71b9a5a79d00b4357833b4b380fc05b4342fbc6b68edac8e4f4baff6b8452e32",
+    "bytes": 91521
+  }
+]

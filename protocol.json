@@ -1,0 +1,45 @@
+{
+  "models": [
+    "PLS4_LinearSVM",
+    "PCA10_ANN"
+  ],
+  "cohort": 74,
+  "low": 36,
+  "high": 38,
+  "wavenumbers": [
+    4000,
+    7500
+  ],
+  "outer_folds": 5,
+  "repeats": 3,
+  "seeds": [
+    42,
+    2026,
+    87
+  ],
+  "inner_folds": 4,
+  "svm_C": [
+    0.1,
+    1,
+    10
+  ],
+  "ANN_paired_configs": [
+    {
+      "width": 16,
+      "lr": 0.001
+    },
+    {
+      "width": 32,
+      "lr": 0.003
+    }
+  ],
+  "ANN_epochs": 60,
+  "recipes": [
+    "SNV_SG1",
+    "MSC_SG2"
+  ],
+  "SG_window": 15,
+  "SG_polynomial": 2,
+  "source": "head File_name exact match; no leaf averaging",
+  "unit": "mg/g DW"
+}

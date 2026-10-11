@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-07",
+  "unit": "mg/g DW",
+  "unit_basis": "new workbook and explicit user confirmation; no numeric conversion",
+  "head_suffix": "-h.spa",
+  "leaf_suffix": ".spa",
+  "each_column": "already averaged from two measurements; no additional averaging",
+  "n": 126,
+  "points": 1557,
+  "cohort74_low": 36,
+  "cohort74_high": 38,
+  "hashes": {
+    "126种青花菜硫苷成分.xlsx": "685f202473943c86edb185810cbc01431b93f18470127e4f1fe48e0f00e0964c",
+    "近红外光谱问题-答复.docx": "e4c98003edad758aa95ed70f75d26c13b1d7494b98e5ea7d2e0e350340c5cc8f",
+    "TQData.csv": "e53d80de50e4b7472b2c23ef39491b1d8b45584d643fc9413a1c7de583ea7022"
+  },
+  "limitation": "74 IDs historically selected using errors from the old head-leaf merged input; remaining selection bias; no new exclusion"
+}
